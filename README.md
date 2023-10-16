@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neelancy1504
-- 👀 I’m interested in learing new technologies
-- 🌱 I’m currently creating my first repo
+- 👀 I’m interested in Learning New Technologies.
+- 🌱 I’m currently creating my First repo.
 - 💞️ I’m looking to collaborate on LinkedIn
 
 <!---
